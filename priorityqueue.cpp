@@ -67,6 +67,10 @@ class priorityqueue{
     }
 
 };
+
+class max_priorityqueue{
+    
+};
 int main(){
     priorityqueue p1;
     p1.insert(100);
