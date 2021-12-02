@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\c++"
+		},
+		{
+			"path": "..\\pictures\\Saved Pictures"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"random": "cpp"
+		}
+	}
+}

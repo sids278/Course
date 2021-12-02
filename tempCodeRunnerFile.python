@@ -1,0 +1,4 @@
+import cv2
+img = cv2.imread('TEMP.PNG')
+cv2.imshow('load',img)
+
