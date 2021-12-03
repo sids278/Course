@@ -36,7 +36,7 @@ class min_priorityqueue{
             parent_indx=(child_indx-1)/2;
         }
     }
-    
+
     int  remove_min(){
         int ans=pq[0];
         pq[0]=pq[pq.size()-1];
@@ -272,6 +272,7 @@ void kth_largest_element(int a[],int k,int n){
 }
 // fun hoga aaj
 // upi id-> 98149..@ybl
+
 
 int main(){
 // inbulit priority queue--> using the stl queue -->here it is max priority queue by default , for min priority queue go down !!
